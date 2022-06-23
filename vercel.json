@@ -1,0 +1,54 @@
+{
+  "redirects": [
+    {
+      "source": "/polycule",
+      "destination": "https://xd.adobe.com/view/f41deede-a83b-4b2a-868d-53edb628b27e-a14e/",
+      "permanent": false
+    },
+    {
+      "source": "/sanger",
+      "destination": "https://xd.adobe.com/view/87fab0c3-478c-429f-85f7-1dfc0f34ecb6-d2a9/",
+      "permanent": false
+    },
+    {
+      "source": "/rogers",
+      "destination": "https://xd.adobe.com/view/6cf74daa-4d26-481d-bbbf-28dbeed1775c-39a4/",
+      "permanent": false
+    },
+    {
+      "source": "/hummel",
+      "destination": "https://xd.adobe.com/view/0f028fb8-6476-4241-8a0f-0d7035ded4ce-5a51/",
+      "permanent": false
+    },
+    {
+      "source": "/mosse",
+      "destination": "https://xd.adobe.com/view/180d57fb-4027-49a3-b971-40a367c6ea19-4d5e/",
+      "permanent": false
+    },
+    {
+      "source": "/WAACS",
+      "destination": "https://xd.adobe.com/view/fb9c29a5-5ca2-4bd6-a804-45b38cb9db27-aecf/",
+      "permanent": false
+    },
+    {
+      "source": "/steinem",
+      "destination": "https://xd.adobe.com/view/f9943267-8d74-40b5-98cf-cf4a6c1bf3fb-acc7/",
+      "permanent": false
+    },
+    {
+      "source": "/berger",
+      "destination": "https://xd.adobe.com/view/97c4094a-43bc-4522-9816-784be6baa363-c297/",
+      "permanent": false
+    },
+    {
+      "source": "/robbins",
+      "destination": "https://xd.adobe.com/view/f0690823-c451-44ec-a55c-2c6f11f02930-a53a/",
+      "permanent": false
+    },
+    {
+      "source": "/nubia",
+      "destination": "https://xd.adobe.com/view/38850565-3c9c-40a7-b097-e33c1420694a-6dd6/",
+      "permanent": false
+    }
+  ]
+}
