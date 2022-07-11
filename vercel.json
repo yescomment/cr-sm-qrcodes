@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://xd.adobe.com/view/9685a8e6-cd48-4e30-8707-299758080b59-c3d6/",
+      "permanent": false
+    },
+    {
       "source": "/polycule",
       "destination": "https://xd.adobe.com/view/f41deede-a83b-4b2a-868d-53edb628b27e-a14e/",
       "permanent": false
